@@ -43,7 +43,7 @@ Error generating stack: `+o.message+`
             <hr />
             <div className="row">
                 <div className="col-md-3">
-                    <img src="./src/assets/img/aries.jpg">
+                    <img src="./assets/img/aries.jpg">
                 </div>
                 <div className="col-md-3">
                     <p>La iniciativa es el punto fuerte de Aries. Son los que siempre van un paso por delante, animan al resto a hacer lo mismo y de los signos en los que m\xE1s puedes confiar. Eso s\xED, sacar\xE1n lo peor de ellos \u2014impulsividad, impaciencia y ego\xEDsmo \u2014si no est\xE1s a la altura de su energ\xEDa. No son f\xE1ciles de llevar.</p>
@@ -55,7 +55,7 @@ Error generating stack: `+o.message+`
             <hr />
             <div className="row">
                 <div className="col-md-3">
-                  <img src="./src/assets/img/libra.jpg">
+                  <img src="./assets/img/libra.jpg">
                 </div>
                 <div className="col-md-3">
                     <p>Los Libra son los m\xE1s rom\xE1nticos del hor\xF3scopo, aunque tambi\xE9n los m\xE1s dudosos. Mala combinaci\xF3n si tenemos en cuenta que sopesan cada decisi\xF3n que toman una media de mil veces. Tambi\xE9n se les reconoce por su elegancia y por no perder nunca los papeles (aunque lo est\xE9n deseando). Su misi\xF3n est\xE1 en tirarse a la piscina sin reflexionar tanto.</p>
@@ -67,7 +67,7 @@ Error generating stack: `+o.message+`
             <hr />
             <div className="row">
                 <div className="col-md-3">
-                  <img src="./src/assets/img/tauro.jpg">
+                  <img src="./assets/img/tauro.jpg">
                 </div>
                 <div className="col-md-3">
                     <p>Tauro es uno de los signos m\xE1s centrados del hor\xF3scopo, porque su lealtad es dif\xEDcil de conseguir. Pero una vez la tengas, ser\xE1 para siempre. Pocas veces pierden los papeles o montan un pollo en p\xFAblico. Solo cuando les empiezan a discutir algo en lo que saben que tienen raz\xF3n. Si no la tienen, tambi\xE9n la luchar\xE1n.</p>
@@ -79,7 +79,7 @@ Error generating stack: `+o.message+`
             <hr />
             <div className="row">
                 <div className="col-md-3">
-                  <img src="./src/assets/img/escorpion.jpg">
+                  <img src="./assets/img/escorpion.jpg">
                 </div>
                 <div className="col-md-3">
                     <p>Intensidad. No hay palabra que mejor defina la personalidad de Escorpio. Para todo adem\xE1s: el amor, trabajo, discusiones, sexo, trabajo... Sin embargo, cuando salen heridos tras darlo todo, se cierran en banda y debes tener cuidado porque poseen bastante mal car\xE1cter. S\xED, son los t\xEDpicos que siempre te contestan mal.</p>
@@ -91,7 +91,7 @@ Error generating stack: `+o.message+`
             <hr />
             <div className="row">
                 <div className="col-md-3">
-                  <img src="./src/assets/img/geminis.jpg">
+                  <img src="./assets/img/geminis.jpg">
                 </div>
                 <div className="col-md-3">
                     <p>Cambiantes como los gemelos que representan su imagen. Suelen tener miedo al compromiso, ya que sus decisiones duran poco tiempo estables y cambian de opini\xF3n muy r\xE1pido. Son excelentes oradores. Cualquier cosa que salga por sus bocas te la creer\xE1s.</p>
@@ -103,7 +103,7 @@ Error generating stack: `+o.message+`
             <hr />
             <div className="row">
                 <div className="col-md-3">
-                  <img src="./src/assets/img/sagitario.jpg">
+                  <img src="./assets/img/sagitario.jpg">
                 </div>
                 <div className="col-md-3">
                     <p>La buena suerte la poseen ellos, gracias a que J\xFApiter es su planeta regente. Los Sagitario son los que siempre encuentran aparcamiento a la primera, los que consiguen las mejores ofertas... Le sale todo tan bien, que se cabrean much\xEDsimo cuando algo se tuerce. Al igual, les encanta expandir todos sus conocimientos.</p>
@@ -115,7 +115,7 @@ Error generating stack: `+o.message+`
             <hr />
             <div className="row">
                 <div className="col-md-3">
-                  <img src="./src/assets/img/cancer.jpg">
+                  <img src="./assets/img/cancer.jpg">
                 </div>
                 <div className="col-md-3">
                     <p>Los C\xE1ncer son los m\xE1s sensibles del zodiaco. Son conocidos por \u2018montar el drama\u2019 bajo cualquier circunstancia, pero lo que quiz\xE1 no sepas es que estas enormes emociones que experimentan les hace ser los m\xE1s emp\xE1ticos del hor\xF3scopo. Son personas muy especiales, y ojito cuando se cabrean.</p>
@@ -127,7 +127,7 @@ Error generating stack: `+o.message+`
             <hr />
             <div className="row">
                 <div className="col-md-3">
-                  <img src="./src/assets/img/capricornio.jpg">
+                  <img src="./assets/img/capricornio.jpg">
                 </div>
                 <div className="col-md-3">
                     <p>Cuerpo a tierra si tu intenci\xF3n es discutir con un Capricornio. Cuando algo se les mete entre ceja y ceja, es mejor quitarles la cabeza que la idea. Muy, muy cabezone, y pocas veces reconocen su error. Su sentido de la responsabilidad asciende a niveles extremos y suelen ser bastante workaholics.</p>
@@ -139,7 +139,7 @@ Error generating stack: `+o.message+`
             <hr />
             <div className="row">
                 <div className="col-md-3">
-                  <img src="./src/assets/img/leo.jpg">
+                  <img src="./assets/img/leo.jpg">
                 </div>
                 <div className="col-md-3">
                     <p>Cuando un Leo entra en un lugar, se nota. Su presencia y luz llenan el sitio... y a estos les encantan que suceda. Son bastante egoc\xE9ntricos, valoran much\xEDsimo el f\xEDsico de los dem\xE1s y siempre sacar\xE1n lo mejor de ti. Seres superiores gobernados por el Sol.</p>
@@ -151,7 +151,7 @@ Error generating stack: `+o.message+`
             <hr />
             <div className="row">
                 <div className="col-md-3">
-                  <img src="./src/assets/img/acuario.jpg">
+                  <img src="./assets/img/acuario.jpg">
                 </div>
                 <div className="col-md-3">
                     <p>Nunca te contestar\xE1n a un WhatsApp. Acuario representa la libertad y la rebeld\xEDa, por lo que la \xFAltima cosa que har\xE1n ser\xE1 estar pendientes de los mensajes que les llegan. No es que no quieran comprometerse, pero prefieren no tener ataduras. No suelen concentrarse en un solo camino.</p>
@@ -163,7 +163,7 @@ Error generating stack: `+o.message+`
             <hr />
             <div className="row">
                 <div className="col-md-3">
-                  <img src="./src/assets/img/virgo.jpg">
+                  <img src="./assets/img/virgo.jpg">
                 </div>
                 <div className="col-md-3">
                     <p>Anal\xEDticos y ordenados. No hay detalle que se le escape a un Virgo, aunque su gran problema est\xE1 en lo poco que fluyen. Necesitan saber cu\xE1ndo y a qu\xE9 hora para poder hacerlo. Siempre est\xE1n pensando en lo que pasar\xE1 despu\xE9s y muchas veces no viven el presente como deber\xEDan.</p>
@@ -175,7 +175,7 @@ Error generating stack: `+o.message+`
             <hr />
             <div className="row">
                 <div className="col-md-3">
-                  <img src="./src/assets/img/piscis.jpg">
+                  <img src="./assets/img/piscis.jpg">
                 </div>
                 <div className="col-md-3">
                     <p>Piscis es el signo m\xE1s creativo del hor\xF3scopo. Esto les permite ser los m\xE1s originales, pero tambi\xE9n montarse unas pel\xEDculas en la cabeza que se acaban creyendo. Viven m\xE1s en las nubes que en el presente, lo que les hace tambi\xE9n estar bastante empanados. La empat\xEDa es su fuerte.</p>
